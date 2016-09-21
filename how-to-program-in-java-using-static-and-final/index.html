@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>How to Program in Java using Static and Final – Jphoenx – Resident Apprentice @ 8th Light</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="AKA: Functional Java
+
+" />
+    <meta property="og:description" content="AKA: Functional Java
+
+" />
+    
+    <meta name="author" content="Jphoenx" />
+
+    
+    <meta property="og:title" content="How to Program in Java using Static and Final" />
+    <meta property="twitter:title" content="How to Program in Java using Static and Final" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="Jphoenx - Resident Apprentice @ 8th Light" href="/feed.xml" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Begin Jekyll SEO tag v2.0.0 -->
+<title>How to Program in Java using Static and Final - Jphoenx</title>
+<meta property="og:title" content="How to Program in Java using Static and Final" />
+<meta name="description" content="AKA: Functional Java" />
+<meta property="og:description" content="AKA: Functional Java" />
+<link rel="canonical" href="https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final/" />
+<meta property="og:url" content="https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final/" />
+<meta property="og:site_name" content="Jphoenx" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-09-01T00:00:00-07:00" />
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "How to Program in Java using Static and Final",
+    "datePublished": "2016-09-01T00:00:00-07:00",
+    "description": "AKA: Functional Java",
+    "url": "https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final/"
+  }
+</script>
+<!-- End Jekyll SEO tag -->
+  </head>
+
+  <body>
+
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="post-heading">
+            <h1>How to Program in Java using Static and Final</h1>
+            <span class="meta">Posted by <a href="/about"> Jphoenx
+            </a> on September  1, 2016
+            <a href="/"> { Return to Blog }</a>
+            </span>
+        </div>
+
+      </div>
+    </div>
+
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <script src="/scripts/nav.js"></script>
+ <div class="space-extra-small">
+ </div>
+
+  <div id="currentEntry" class="entry">
+    <ul class="section-nav">
+<li class="toc-entry toc-h2"><a href="#tldr">TL;DR</a></li>
+<li class="toc-entry toc-h4"><a href="#see-example">See example</a></li>
+<li class="toc-entry toc-h2"><a href="#basic-example">Basic Example</a></li>
+<li class="toc-entry toc-h4"><a href="#learn-about-final">Learn about Final</a></li>
+<li class="toc-entry toc-h2"><a href="#what-does-final-mean">What does final mean?</a></li>
+<li class="toc-entry toc-h4"><a href="#learn-about-static">Learn about Static</a></li>
+<li class="toc-entry toc-h2"><a href="#what-does-static-mean">What does static mean?</a></li>
+<li class="toc-entry toc-h4"><a href="#skip-ahead-to-better-way">Skip ahead to better way</a></li>
+<li class="toc-entry toc-h2"><a href="#functional-java">Functional Java</a></li>
+<li class="toc-entry toc-h3"><a href="#lock-down-your-data-structures-using-final">Lock down your data structures using final.</a></li>
+<li class="toc-entry toc-h3"><a href="#use-static-on-your-methods-to-make-them-functional">Use static on your methods to make them functional.</a></li>
+</ul><p>AKA: Functional Java</p>
+
+<h2 id="tldr">
+<a id="tldr" class="anchor" href="#tldr" aria-hidden="true"><span class="octicon octicon-link"></span></a>TL;DR</h2>
+
+<ol>
+  <li>Use final on your data structures to lock down your data
+    <ul>
+      <li>Make copies of things as you go to change data.</li>
+    </ul>
+  </li>
+  <li>Use static on your methods to make them functional
+    <ul>
+      <li>The first argument to the method is the object in question.</li>
+    </ul>
+  </li>
+  <li>If using both and you want to change the underlying data structure.
+    <ul>
+      <li>The return type is a new updated version of the object in question.</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 class="nav-anchor">
+<a id="see-example" class="anchor" href="#see-example" aria-hidden="true"><span class="octicon octicon-link"></span></a>See example</h4>
+
+<h2 id="basic-example">
+<a id="basic-example" class="anchor" href="#basic-example" aria-hidden="true"><span class="octicon octicon-link"></span></a>Basic Example</h2>
+
+<p>To use an example from an HTTP Server (a pretty common example in Java-land):</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">class</span> <span class="nc">Request</span> <span class="o">{</span>
+    <span class="kd">private</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">;</span>
+    <span class="kd">private</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">;</span>
+
+    <span class="kd">public</span> <span class="nf">Request</span><span class="o">(</span><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">)</span> <span class="o">{</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">header</span> <span class="o">=</span> <span class="n">header</span><span class="o">;</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">body</span> <span class="o">=</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getHeader</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">header</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getBody</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">boolean</span> <span class="nf">isValid</span><span class="o">()</span> <span class="o">{</span>
+        <span class="c1">// DO WORK TO CHECK IF REQUEST IS VALID</span>
+    <span class="o">}</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>Now if we wanted to use the isValid() method on Request we would first have to
+create a new one and then we could use it.</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span> <span class="o">=</span> <span class="s">"GET /images HTTP/1.1\r\n\r\n"</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span> <span class="o">=</span> <span class="s">""</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="n">Request</span> <span class="n">request</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Request</span><span class="o">(</span><span class="n">header</span><span class="o">,</span> <span class="n">body</span><span class="o">);</span>
+<span class="k">if</span> <span class="o">(!</span><span class="n">request</span><span class="o">.</span><span class="na">isValid</span><span class="o">())</span> <span class="o">{</span>
+    <span class="c1">// DO WORK WITH REQUEST</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>This is fine… and I’ve coded working systems using this very approach.</p>
+
+<p>But there is a better way.</p>
+
+<h4 class="nav-anchor">
+<a id="learn-about-final" class="anchor" href="#learn-about-final" aria-hidden="true"><span class="octicon octicon-link"></span></a>Learn about Final</h4>
+
+<h2 id="what-does-final-mean">
+<a id="what-does-final-mean" class="anchor" href="#what-does-final-mean" aria-hidden="true"><span class="octicon octicon-link"></span></a>What does final mean?</h2>
+
+<p>Final means that a value cannot be changed after you <strong>finish</strong> making it.</p>
+
+<p>Back to our Request example.</p>
+
+<p>NOTE that the two fields at the top now have <strong>final</strong> in front of them.</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">class</span> <span class="nc">Request</span> <span class="o">{</span>
+    <span class="kd">private</span> <span class="kd">final</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">;</span>
+    <span class="kd">private</span> <span class="kd">final</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">;</span>
+
+    <span class="kd">public</span> <span class="nf">Request</span><span class="o">(</span><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">)</span> <span class="o">{</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">header</span> <span class="o">=</span> <span class="n">header</span><span class="o">;</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">body</span> <span class="o">=</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getHeader</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">header</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getBody</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">boolean</span> <span class="nf">isValid</span><span class="o">()</span> <span class="o">{</span>
+        <span class="c1">// DO WORK TO CHECK IF REQUEST IS VALID</span>
+    <span class="o">}</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>The way that this works is that header and body get assigned inside of the
+constructor and then they cannot be mutated at all.</p>
+
+<p>That is super handy because you never have to worry about one of these values
+changing later… say for concurrency, testing, or your sanity.</p>
+
+<p>Ok… so the way to construct a basic Request has not changed yet:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span> <span class="o">=</span> <span class="s">"POST /users HTTP/1.1\r\n\r\n"</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span> <span class="o">=</span> <span class="s">""</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="n">Request</span> <span class="n">currentRequest</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Request</span><span class="o">(</span><span class="n">header</span><span class="o">,</span> <span class="n">body</span><span class="o">);</span></code></pre></figure>
+
+<p>But oh no… we forgot to parse the body in that request… and now it is
+final and we can’t change it…</p>
+
+<p>Well if you ever wanted to change the value of one of those. You would create a
+new object like so:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">byte</span><span class="o">[]</span> <span class="n">currentHeader</span> <span class="o">=</span> <span class="n">currentRequest</span><span class="o">.</span><span class="na">getHeader</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">currentBody</span> <span class="o">=</span> <span class="n">currentRequest</span><span class="o">.</span><span class="na">getBody</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">updatedBody</span> <span class="o">=</span> <span class="n">combine</span><span class="o">(</span><span class="n">currentBody</span><span class="o">,</span> <span class="s">"data: pie"</span><span class="o">.</span><span class="na">getBytes</span><span class="o">());</span>
+<span class="n">Request</span> <span class="n">updatedRequest</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Request</span><span class="o">(</span><span class="n">currentHeader</span><span class="o">,</span> <span class="n">updatedBody</span><span class="o">);</span></code></pre></figure>
+
+<p>And then the combine method:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">private</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">combine</span><span class="o">(</span><span class="kt">byte</span><span class="o">[]</span> <span class="n">original</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">addend</span><span class="o">)</span> <span class="kd">throws</span> <span class="n">IOException</span> <span class="o">{</span>
+    <span class="n">ByteArrayOutputStream</span> <span class="n">combined</span> <span class="o">=</span> <span class="k">new</span> <span class="n">ByteArrayOutputStream</span><span class="o">();</span>
+    <span class="n">combined</span><span class="o">.</span><span class="na">write</span><span class="o">(</span><span class="n">original</span><span class="o">);</span>
+    <span class="n">combined</span><span class="o">.</span><span class="na">write</span><span class="o">(</span><span class="n">addend</span><span class="o">);</span>
+    <span class="k">return</span> <span class="n">combined</span><span class="o">.</span><span class="na">toByteArray</span><span class="o">();</span>
+<span class="o">}</span></code></pre></figure>
+
+<h4 class="nav-anchor">
+<a id="learn-about-static" class="anchor" href="#learn-about-static" aria-hidden="true"><span class="octicon octicon-link"></span></a>Learn about Static</h4>
+
+<h2 id="what-does-static-mean">
+<a id="what-does-static-mean" class="anchor" href="#what-does-static-mean" aria-hidden="true"><span class="octicon octicon-link"></span></a>What does static mean?</h2>
+
+<p>Static denotes that a particular field or method should be a class level field
+or method.</p>
+
+<p>Let’s look at our example again.</p>
+
+<p>NOTE that the isValid method is now static AND takes an argument of type
+Request.</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">class</span> <span class="nc">Request</span> <span class="o">{</span>
+    <span class="kd">private</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">;</span>
+    <span class="kd">private</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">;</span>
+
+    <span class="kd">public</span> <span class="nf">Request</span><span class="o">(</span><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">)</span> <span class="o">{</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">header</span> <span class="o">=</span> <span class="n">header</span><span class="o">;</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">body</span> <span class="o">=</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getHeader</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">header</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getBody</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">boolean</span> <span class="nf">isValid</span><span class="o">(</span><span class="n">Request</span> <span class="n">request</span><span class="o">)</span> <span class="o">{</span>
+        <span class="c1">// DO WORK TO CHECK IF REQUEST IS VALID</span>
+    <span class="o">}</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>Since isValid now takes in a request object we have to change the way we
+call it slightly:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span> <span class="o">=</span> <span class="s">"GET /images HTTP/1.1\r\n\r\n"</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span> <span class="o">=</span> <span class="s">""</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="n">Request</span> <span class="n">request</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Request</span><span class="o">(</span><span class="n">header</span><span class="o">,</span> <span class="n">body</span><span class="o">);</span>
+<span class="k">if</span> <span class="o">(!</span><span class="n">Request</span><span class="o">.</span><span class="na">isValid</span><span class="o">(</span><span class="n">request</span><span class="o">))</span> <span class="o">{</span>
+    <span class="c1">// DO WORK WITH REQUEST</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>The static part makes it so that we call isValid directly on the Request class.</p>
+
+<p>And because its being called directly on the Request class… in order for it
+to know what request we are talking about… we have to pass it a request
+directly.</p>
+
+<h4 class="nav-anchor">
+<a id="skip-ahead-to-better-way" class="anchor" href="#skip-ahead-to-better-way" aria-hidden="true"><span class="octicon octicon-link"></span></a>Skip ahead to better way</h4>
+
+<h2 id="functional-java">
+<a id="functional-java" class="anchor" href="#functional-java" aria-hidden="true"><span class="octicon octicon-link"></span></a>Functional Java</h2>
+
+<p>Completed code using both approaches together:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">class</span> <span class="nc">Request</span> <span class="o">{</span>
+    <span class="kd">private</span> <span class="kd">final</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">;</span>
+    <span class="kd">private</span> <span class="kd">final</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">;</span>
+
+    <span class="kd">public</span> <span class="nf">Request</span><span class="o">(</span><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span><span class="o">)</span> <span class="o">{</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">header</span> <span class="o">=</span> <span class="n">header</span><span class="o">;</span>
+        <span class="k">this</span><span class="o">.</span><span class="na">body</span> <span class="o">=</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getHeader</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">header</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kt">byte</span><span class="o">[]</span> <span class="nf">getBody</span><span class="o">()</span> <span class="o">{</span>
+        <span class="k">return</span> <span class="n">body</span><span class="o">;</span>
+    <span class="o">}</span>
+
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">boolean</span> <span class="nf">isValid</span><span class="o">(</span><span class="n">Request</span> <span class="n">request</span><span class="o">)</span> <span class="o">{</span>
+        <span class="c1">// DO WORK TO CHECK IF REQUEST IS VALID</span>
+    <span class="o">}</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>And the invoking code:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">byte</span><span class="o">[]</span> <span class="n">header</span> <span class="o">=</span> <span class="s">"GET /images HTTP/1.1\r\n\r\n"</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="kt">byte</span><span class="o">[]</span> <span class="n">body</span> <span class="o">=</span> <span class="s">""</span><span class="o">.</span><span class="na">getBytes</span><span class="o">();</span>
+<span class="n">Request</span> <span class="n">request</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Request</span><span class="o">(</span><span class="n">header</span><span class="o">,</span> <span class="n">body</span><span class="o">);</span>
+<span class="k">if</span> <span class="o">(!</span><span class="n">Request</span><span class="o">.</span><span class="na">isValid</span><span class="o">(</span><span class="n">request</span><span class="o">))</span> <span class="o">{</span>
+    <span class="c1">// DO WORK WITH REQUEST</span>
+<span class="o">}</span></code></pre></figure>
+
+<h3 id="lock-down-your-data-structures-using-final">
+<a id="lock-down-your-data-structures-using-final" class="anchor" href="#lock-down-your-data-structures-using-final" aria-hidden="true"><span class="octicon octicon-link"></span></a>Lock down your data structures using final.</h3>
+
+<p>Every piece of data that an object owns is just a final field on that object.</p>
+
+<p>This makes it super easy to reason about later and you don’t have to worry
+about side effects creaping in later.</p>
+
+<h3 id="use-static-on-your-methods-to-make-them-functional">
+<a id="use-static-on-your-methods-to-make-them-functional" class="anchor" href="#use-static-on-your-methods-to-make-them-functional" aria-hidden="true"><span class="octicon octicon-link"></span></a>Use static on your methods to make them functional.</h3>
+
+<p>Have each method take a request as the first argument to the method and if
+you want to change the value of the state on the object then just make a
+new copy of that object and return it.</p>
+
+<p>MOAR EXAMPLES</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kd">static</span> <span class="n">Map</span> <span class="nf">parseHeaders</span><span class="o">(</span><span class="n">Request</span> <span class="n">request</span><span class="o">)</span> <span class="o">{</span>
+    <span class="c1">// GO THROUGH THE REQUEST HEADER AND PARSE OUT THINGS LIKE</span>
+    <span class="c1">// Content-Length: 13</span>
+    <span class="c1">// Content-Type: text/html</span>
+<span class="o">}</span>
+
+<span class="kd">public</span> <span class="kd">static</span> <span class="n">Request</span> <span class="nf">addBodyContent</span><span class="o">(</span><span class="n">Request</span> <span class="n">request</span><span class="o">,</span> <span class="kt">byte</span><span class="o">[]</span> <span class="n">newContent</span><span class="o">)</span> <span class="o">{</span>
+    <span class="kt">byte</span><span class="o">[]</span> <span class="n">currentBody</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="na">getBody</span><span class="o">();</span>
+    <span class="kt">byte</span><span class="o">[]</span> <span class="n">updatedBody</span> <span class="o">=</span> <span class="n">combine</span><span class="o">(</span><span class="n">currentBody</span><span class="o">,</span> <span class="n">newContent</span><span class="o">);</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nf">Request</span><span class="o">(</span><span class="n">request</span><span class="o">.</span><span class="na">getHeader</span><span class="o">(),</span> <span class="n">updatedBody</span><span class="o">);</span>
+<span class="o">}</span></code></pre></figure>
+
+
+  </div>
+
+  
+</article>
+
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+            <div class="svg-icon">
+          
+<a href="mailto:jholzmann@8thlight.com"><i class="icon-envelope icon-2x"></i></a>
+
+
+<a href="https://github.com/jphoenix86"><i class="icon-github icon-2x"></i></a>
+
+<a href="https://www.linkedin.com/in/justin-holzmann-9470065"><i class="icon-linkedin-sign icon-2x"></i></a>
+
+
+<a href="https://www.twitter.com/justinholzmann"><i class="icon-twitter icon-2x"></i></a>
+
+
+
+            </div>
+        </footer>
+      </div>
+    </div>
+
+
+    
+
+  </body>
+</html>

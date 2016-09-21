@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://jphoenix86.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jphoenix86.github.io/" rel="alternate" type="text/html" /><updated>2016-09-21T13:59:14-07:00</updated><id>https://jphoenix86.github.io/</id><title>Jphoenx</title><subtitle>Resident Apprentice @ 8th Light</subtitle><entry><title>The art of practicing 1</title><link href="https://jphoenix86.github.io/art-of-practicing/" rel="alternate" type="text/html" title="The art of practicing 1" /><published>2016-09-09T00:00:00-07:00</published><updated>2016-09-09T00:00:00-07:00</updated><id>https://jphoenix86.github.io/art-of-practicing</id><content type="html" xml:base="https://jphoenix86.github.io/art-of-practicing/">&lt;h4 class=&quot;nav-anchor&quot;&gt;Chunking&lt;/h4&gt;
+
+&lt;h2 id=&quot;chunking&quot;&gt;Chunking&lt;/h2&gt;
+
+&lt;p&gt;Very few things in this world in terms of mastery acquisition are as important as practicing.&lt;/p&gt;
+
+&lt;p&gt;Practicing is the act of going through and putting attention on a problem until it moves from the
+difficult to the easy. You are assigning a series of neurons that work together to accomplish
+a task and making them work together.&lt;/p&gt;
+
+&lt;p&gt;Even as few as 10 repetitions can have a pretty noticeable impact.&lt;/p&gt;
+
+&lt;p&gt;The biggest thing that most people don’t do is bring things from the basic where they have to put
+constant attention on something to go through the 3 basic processes.&lt;/p&gt;
+
+&lt;p&gt;Katrina Owen came in and talked at Turing school one time. If you don’t know Katrina she is the creative
+mind behind &lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;She was talking about how how High Expertise correlates to cognitive processing management.&lt;/p&gt;
+
+&lt;p&gt;She was describing three buckets of expertise in order to learn any particular domain.&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;            MOST PEOPLE PILE UP IN BUCKET B.
+
+      A -----------------&amp;gt; B ------------------&amp;gt; C
+
+  Can't do        Can do with effort      Can do with little / no effort
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bucket A: Can’t do the activity at all (the thing could literally be written in Chinese).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bucket B: Can do the activity… With effort.
+Tasks like these are within your wheel house but it takes a considerable amount of effort.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bucket C: Mastered reliable / automatic.
+This is the dream. You no longer have to think about the domain at all you can just perform.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you are reading this blog… then its safe to assume that you know how to go from Bucket A to Bucket B…
+sure this process can &lt;em&gt;always&lt;/em&gt; be optimized… but the real question is:&lt;/p&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;Pattern Recognition&lt;/h4&gt;
+
+&lt;h2 id=&quot;pattern-recognition&quot;&gt;Pattern recognition&lt;/h2&gt;
+
+&lt;p&gt;In &lt;a href=&quot;https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/B00JE2WEEK&quot;&gt;the Art of Learning&lt;/a&gt;,
+Chess Grandmaster Josh Waitzkin (the kid from that movie Searching for Bobby Fischer) talks
+about studies done on Chess Experts (2000-2200 elo) v. Chess Grandmasters (2500+ elo).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you don’t know the Chess world at all… grandmaster is the highest you can get (1,522 total in the world
+in 2016).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The study was simple enough: show both of them a Chess position and then track how long it took them to
+recreate it on an adjacent board.&lt;/p&gt;
+
+&lt;p&gt;Heres where it gets interesting:&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;When they had Chess boards with positions from real games the
+Grandmasters would be able to recreate it significantly faster
+than the experts, but when the boards were just pieces placed at
+random both of them took approximately the same amount of time.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The grandmasters had more patterns chunked than the experts… and when they could use these patterns they could
+perform the task faster than the experts.&lt;/p&gt;
+
+&lt;p&gt;But when it was just random positions their was no difference between the two.&lt;/p&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;How do you go from Bucket B to Bucket C?&lt;/h4&gt;
+
+&lt;h2 id=&quot;how-do-you-go-from-bucket-b-to-bucket-c&quot;&gt;How do you go from Bucket B to Bucket C?&lt;/h2&gt;
+
+&lt;p&gt;Short answer: the way to get there is through consistent &lt;em&gt;effective&lt;/em&gt; practice.&lt;/p&gt;
+
+&lt;p&gt;Katrina also mentioned that the perfect size of a subskill that you should be working towards is 3 (or less) sessions
+of 45 - 90 minutes each. If you work on things in those blocks and can practice and acquire the skill in that amount
+of time then you are well on your way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More to come.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Chunking</summary></entry><entry><title>How to Program in Java using Static and Final</title><link href="https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final/" rel="alternate" type="text/html" title="How to Program in Java using Static and Final" /><published>2016-09-01T00:00:00-07:00</published><updated>2016-09-01T00:00:00-07:00</updated><id>https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final</id><content type="html" xml:base="https://jphoenix86.github.io/how-to-program-in-java-using-static-and-final/">&lt;p&gt;AKA: Functional Java&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use final on your data structures to lock down your data
+    &lt;ul&gt;
+      &lt;li&gt;Make copies of things as you go to change data.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use static on your methods to make them functional
+    &lt;ul&gt;
+      &lt;li&gt;The first argument to the method is the object in question.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If using both and you want to change the underlying data structure.
+    &lt;ul&gt;
+      &lt;li&gt;The return type is a new updated version of the object in question.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;See example&lt;/h4&gt;
+
+&lt;h2 id=&quot;basic-example&quot;&gt;Basic Example&lt;/h2&gt;
+
+&lt;p&gt;To use an example from an HTTP Server (a pretty common example in Java-land):&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// DO WORK TO CHECK IF REQUEST IS VALID&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now if we wanted to use the isValid() method on Request we would first have to
+create a new one and then we could use it.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;GET /images HTTP/1.1\r\n\r\n&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// DO WORK WITH REQUEST&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This is fine… and I’ve coded working systems using this very approach.&lt;/p&gt;
+
+&lt;p&gt;But there is a better way.&lt;/p&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;Learn about Final&lt;/h4&gt;
+
+&lt;h2 id=&quot;what-does-final-mean&quot;&gt;What does final mean?&lt;/h2&gt;
+
+&lt;p&gt;Final means that a value cannot be changed after you &lt;strong&gt;finish&lt;/strong&gt; making it.&lt;/p&gt;
+
+&lt;p&gt;Back to our Request example.&lt;/p&gt;
+
+&lt;p&gt;NOTE that the two fields at the top now have &lt;strong&gt;final&lt;/strong&gt; in front of them.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// DO WORK TO CHECK IF REQUEST IS VALID&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The way that this works is that header and body get assigned inside of the
+constructor and then they cannot be mutated at all.&lt;/p&gt;
+
+&lt;p&gt;That is super handy because you never have to worry about one of these values
+changing later… say for concurrency, testing, or your sanity.&lt;/p&gt;
+
+&lt;p&gt;Ok… so the way to construct a basic Request has not changed yet:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;POST /users HTTP/1.1\r\n\r\n&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentRequest&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;But oh no… we forgot to parse the body in that request… and now it is
+final and we can’t change it…&lt;/p&gt;
+
+&lt;p&gt;Well if you ever wanted to change the value of one of those. You would create a
+new object like so:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentHeader&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentRequest&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentRequest&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;combine&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;data: pie&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;());&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedRequest&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;currentHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;And then the combine method:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;combine&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;original&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;addend&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;throws&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IOException&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;ByteArrayOutputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;combined&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ByteArrayOutputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;combined&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;original&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;combined&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;addend&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;combined&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;toByteArray&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;Learn about Static&lt;/h4&gt;
+
+&lt;h2 id=&quot;what-does-static-mean&quot;&gt;What does static mean?&lt;/h2&gt;
+
+&lt;p&gt;Static denotes that a particular field or method should be a class level field
+or method.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at our example again.&lt;/p&gt;
+
+&lt;p&gt;NOTE that the isValid method is now static AND takes an argument of type
+Request.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// DO WORK TO CHECK IF REQUEST IS VALID&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Since isValid now takes in a request object we have to change the way we
+call it slightly:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;GET /images HTTP/1.1\r\n\r\n&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// DO WORK WITH REQUEST&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The static part makes it so that we call isValid directly on the Request class.&lt;/p&gt;
+
+&lt;p&gt;And because its being called directly on the Request class… in order for it
+to know what request we are talking about… we have to pass it a request
+directly.&lt;/p&gt;
+
+&lt;h4 class=&quot;nav-anchor&quot;&gt;Skip ahead to better way&lt;/h4&gt;
+
+&lt;h2 id=&quot;functional-java&quot;&gt;Functional Java&lt;/h2&gt;
+
+&lt;p&gt;Completed code using both approaches together:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// DO WORK TO CHECK IF REQUEST IS VALID&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;And the invoking code:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;GET /images HTTP/1.1\r\n\r\n&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBytes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;isValid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// DO WORK WITH REQUEST&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;lock-down-your-data-structures-using-final&quot;&gt;Lock down your data structures using final.&lt;/h3&gt;
+
+&lt;p&gt;Every piece of data that an object owns is just a final field on that object.&lt;/p&gt;
+
+&lt;p&gt;This makes it super easy to reason about later and you don’t have to worry
+about side effects creaping in later.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-static-on-your-methods-to-make-them-functional&quot;&gt;Use static on your methods to make them functional.&lt;/h3&gt;
+
+&lt;p&gt;Have each method take a request as the first argument to the method and if
+you want to change the value of the state on the object then just make a
+new copy of that object and return it.&lt;/p&gt;
+
+&lt;p&gt;MOAR EXAMPLES&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Map&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;parseHeaders&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// GO THROUGH THE REQUEST HEADER AND PARSE OUT THINGS LIKE&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// Content-Length: 13&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// Content-Type: text/html&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;addBodyContent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;newContent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;combine&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;newContent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Jphoenx</name></author><summary>AKA: Functional Java</summary></entry><entry><title>Java Streams 1</title><link href="https://jphoenix86.github.io/java-streams-1/" rel="alternate" type="text/html" title="Java Streams 1" /><published>2016-08-12T00:00:00-07:00</published><updated>2016-08-12T00:00:00-07:00</updated><id>https://jphoenix86.github.io/java-streams-1</id><content type="html" xml:base="https://jphoenix86.github.io/java-streams-1/">&lt;h2 id=&quot;using-bufferedinputstream&quot;&gt;Using BufferedInputStream&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: this is for my &lt;a href=&quot;https://www.github.com/jphoenx/javaServer&quot;&gt;Java Server&lt;/a&gt; project at &lt;a href=&quot;https://www.8thlight.com&quot;&gt;8thLight&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The constructor: &lt;code class=&quot;highlighter-rouge&quot;&gt;BufferedInputStream(InputStream in, int size)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Doesn’t mutate the input stream but will only read a certain amount of the bytes (based on the
+size argument we pass in).&lt;/p&gt;
+
+&lt;p&gt;Therefore it seems like to solve this server project we can use a typical &lt;em&gt;InputStream&lt;/em&gt; with a
+&lt;em&gt;BufferedInputStream&lt;/em&gt; to solve this header/body problem.&lt;/p&gt;
+
+&lt;p&gt;The first thing is to decide on a header amount that is definitely bigger than we would ever
+need.&lt;/p&gt;
+
+&lt;p&gt;I don’t actually know but lets say 2000 bytes (remember this is just for the header).&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;n&quot;&gt;BufferedInputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BufferedInputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;InputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2000&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now we can take header and do header stuff with it… convert it to a string and parse it.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Parse line (for router).&lt;/li&gt;
+  &lt;li&gt;Parse headers (for response handler).&lt;/li&gt;
+  &lt;li&gt;Find the specifc byte &lt;strong&gt;after&lt;/strong&gt; “\r\n\r\n” (that’s where the body begins in our InputStream).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Then we can discard that buffer since we have all of the information that we want.&lt;/p&gt;
+
+&lt;p&gt;So maybe a working implementation looks like?&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;RequestHandler&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;InputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HashMap&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;RequestHandler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;InputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;parse&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;InputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;BufferedInputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BufferedInputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2000&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;makePretty&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;makePretty&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;InputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BufferedInputStream&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;HashMap&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HashMap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// DO STRING MANIPULATIONS HERE AND PUT IN MAP&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;That way we never can keep the initial input stream as-is and just work with stuff as we need it.&lt;/p&gt;
+
+&lt;p&gt;This class will now act as a boundary for a request.&lt;/p&gt;
+
+&lt;p&gt;And if we ever need to parse more information out of the request (WE PROBABLY WILL LOL)…
+then we can just come to this class and make the changes here.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Using BufferedInputStream</summary></entry><entry><title>Choosing Abstractions 1</title><link href="https://jphoenix86.github.io/choosing-abstractions-1/" rel="alternate" type="text/html" title="Choosing Abstractions 1" /><published>2016-08-03T00:00:00-07:00</published><updated>2016-08-03T00:00:00-07:00</updated><id>https://jphoenix86.github.io/choosing-abstractions-1</id><content type="html" xml:base="https://jphoenix86.github.io/choosing-abstractions-1/">&lt;p&gt;You’ve probably heard that one of the hardest things in programming is naming things.&lt;/p&gt;
+
+&lt;p&gt;I never really understood exactly what that meant until working on my &lt;a href=&quot;http://github.com/JPHoenx/javaServer&quot;&gt;Java Server&lt;/a&gt;
+project at &lt;a href=&quot;https://www.8thlight.com&quot;&gt;8th Light&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-are-hard-to-name-for-the-following-reasons&quot;&gt;Things are hard to name for the following reasons:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If you commit to a design then it will be much harder to change from that
+design going forwards (you will be battling against technical momentum).&lt;/li&gt;
+  &lt;li&gt;Naming a thing is where you decide the level of abstraction that it is going
+to be at… and choosing a layer of abstraction level… is extremely difficult.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first one is more of a business decision. i.e. will we want to take the time
+to refactor this poor design to something better later?&lt;/p&gt;
+
+&lt;p&gt;The second one though is a skill set that can be learned.&lt;/p&gt;
+
+&lt;p&gt;My mentor &lt;a href=&quot;https://twitter.com/pratt_b&quot;&gt;Brian Pratt&lt;/a&gt; did an excellent Zagaku on
+choosing different layers of abstraction for a coffee pot.&lt;/p&gt;
+
+&lt;p&gt;Instead of trying to view it as specific objects with behavior… button here… light there…
+repository that is either full or empty… etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;instead-flip-your-thinking-to-work-with-the-underlying-use-case-takes-practice&quot;&gt;Instead flip your thinking to work with the underlying use case (takes practice).&lt;/h3&gt;
+
+&lt;p&gt;So for my Server project. The one main thing I’m allowed to use is the &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html&quot;&gt;Socket class&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well when I first saw that… I obviously had several questions…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What exactly is a socket (besides perhaps a way for Oracle to ensure its devs keep job security)?&lt;/li&gt;
+  &lt;li&gt;How do I use it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;source-code-backwards-approach&quot;&gt;Source code backwards approach&lt;/h3&gt;
+
+&lt;p&gt;So my first instinct (since I was handed this Socket thing) was to go look at what it
+can do and figure out how to use it&lt;/p&gt;
+
+&lt;p&gt;Reading the Java docs wasn’t really much help as its description is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A socket is an endpoint for communication between two machines.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Thanks Oracle.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried working with it and wrapping it in an interface as per Brian’s suggestions.&lt;/p&gt;
+
+&lt;p&gt;This is what I ended up with (The test that finally broke me):&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE =&amp;gt; If you are reading this blog post looking for code to try… this is not the code for you.
+You will end up hating yourself down the road.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Java&quot;&gt;public void testItSendsBackTheProperResponse() throws Exception {
+    String request = &quot;GET / HTTP/1.1\nUser-Agent: Cake\nAccept-Language: en-us\n&quot;;
+    String expectedResponse = &quot;HTTP/1.1 200 OK\nUser-Agent: ServerCake\nContent-Type: text/html\n\n&quot; +
+            &quot;&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&amp;lt;h1&amp;gt;Hello world&amp;lt;/h1&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;&quot;;
+    InputStream input = new ByteArrayInputStream(request.getBytes());
+    ByteArrayOutputStream output = new ByteArrayOutputStream();
+    FakeSocket socket = new FakeSocket(input, output);
+    FakeServerSocket serverSocket = new FakeServerSocket(socket);
+    Server server = new Server(serverSocket);
+
+    server.run();
+
+    String response = output.toString();
+
+    assertEquals(expectedResponse, response);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In short:
+I’m trying to inject both input and output streams into the socket which then
+gets injected into the serversocket which then gets injected into the server.&lt;/p&gt;
+
+&lt;p&gt;Run the server… and then somehow assert that the output stream has a response pushed onto it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TRIPLEJECTION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This code is dense and confusing and implies that I’m missing a layer of abstraction somewhere.&lt;/p&gt;
+
+&lt;p&gt;I was talking to my other mentor &lt;a href=&quot;https://twitter.com/radicalzephyr&quot;&gt;Geoff Shannon&lt;/a&gt; and he recommended
+that I should go and try to TDD my SocketWrapper (super creative name) interface.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-case-approach&quot;&gt;Use case approach.&lt;/h3&gt;
+
+&lt;p&gt;So what are we wrapping?&lt;/p&gt;
+
+&lt;p&gt;Communication between a network (or a client of the network) and the web server.&lt;/p&gt;
+
+&lt;p&gt;The network (I think of this as the internet itself) is what we are wrapping.&lt;/p&gt;
+
+&lt;p&gt;In order for anything to get in to our web server… it needs to conform
+to a few rules that we get to pick.&lt;/p&gt;
+
+&lt;p&gt;The general process needs to look like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Network calls into the server with a request.&lt;/li&gt;
+  &lt;li&gt;The server accepts the request.&lt;/li&gt;
+  &lt;li&gt;Handles the request.&lt;/li&gt;
+  &lt;li&gt;And then returns a response.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Build a mock client (which is a potential client of the network)…
+And the client will send requests to the server.&lt;/p&gt;
+
+&lt;p&gt;What are the basic commands we are going to receive?
+1) Hey gimme a webpage to me please (has to ask nice).
+2) … Other things (remember don’t do free work).&lt;/p&gt;
+
+&lt;p&gt;Server =&amp;gt; first check that the request is legit.&lt;/p&gt;
+
+&lt;p&gt;Send it to the router for that.&lt;/p&gt;
+
+&lt;p&gt;HttpProtocol demands that you conform to it.&lt;/p&gt;
+
+&lt;p&gt;It’s an interface that needs the following:
+Date, version, request method, headers (optional), body (optional).&lt;/p&gt;
+
+&lt;p&gt;Break down the incoming request based on a set of rules…&lt;/p&gt;
+
+&lt;p&gt;Look for newlines at first… And then look for double new lines (and then the next thing is the body).&lt;/p&gt;
+
+&lt;p&gt;Router can figure out what handling function to call… And then call it.&lt;/p&gt;
+
+&lt;p&gt;–End Brain dump–&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>You’ve probably heard that one of the hardest things in programming is naming things.</summary></entry><entry><title>Testing in JS</title><link href="https://jphoenix86.github.io/testing-in-js/" rel="alternate" type="text/html" title="Testing in JS" /><published>2016-06-29T00:00:00-07:00</published><updated>2016-06-29T00:00:00-07:00</updated><id>https://jphoenix86.github.io/testing-in-js</id><content type="html" xml:base="https://jphoenix86.github.io/testing-in-js/">&lt;h2 id=&quot;why-test&quot;&gt;Why Test?&lt;/h2&gt;
+
+&lt;p&gt;For a while now I’ve felt like the skill set today is every bit as much about
+testing as it is about writing actual code.&lt;/p&gt;
+
+&lt;p&gt;Now don’t get this twisted… 100% of &lt;strong&gt;today’s&lt;/strong&gt; business value is derived from the
+piece of software working. And ~0% of &lt;strong&gt;today’s&lt;/strong&gt; business value is from tests.&lt;/p&gt;
+
+&lt;p&gt;Seriously.&lt;/p&gt;
+
+&lt;p&gt;But that equation changes drastically over time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your business needs will be different in the future (or you will be out of business).&lt;/li&gt;
+  &lt;li&gt;Upgrading to new feature sets can break your thing (and sometimes you have to for security reasons).&lt;/li&gt;
+  &lt;li&gt;You want to build on top of your solution (or someone else does).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In all of these examples having tests will make &lt;em&gt;future you&lt;/em&gt; way happier.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your code will be less brittle (because tested code is reusable by definition).&lt;/li&gt;
+  &lt;li&gt;When you upgrade you will be led through (in plain english) all of the places
+where you need to fix it.&lt;/li&gt;
+  &lt;li&gt;You will have confidence that your solution is working (and therefore want to
+build on top of it).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ok… this isn’t a treatise on why you should be testing… and if you are here
+I’m going to assume that you have already drank the cool-aid to a certain extent
+and wish that you were testing better.&lt;/p&gt;
+
+&lt;p&gt;So how do you do it in JS? It makes decent sense to me an object oriented language
+because you can follow the following pattern:&lt;/p&gt;
+
+&lt;h2 id=&quot;oo-example&quot;&gt;OO Example&lt;/h2&gt;
+
+&lt;h3 id=&quot;in-ruby&quot;&gt;In Ruby&lt;/h3&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;c1&quot;&gt;# Setup&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;board&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;game&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Game&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;board&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Method under test&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;make_move&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Expectation in RSpec&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;expect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;board&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;eq&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We have a game object… and then we call a method on the game which changes the actual state of the game under test and then we assert that the change actually happened.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then we know that we need to test each public method living on game.&lt;/p&gt;
+
+&lt;h2 id=&quot;functional-example&quot;&gt;Functional Example&lt;/h2&gt;
+
+&lt;h3 id=&quot;in-clojure&quot;&gt;In Clojure&lt;/h3&gt;
+
+&lt;div class=&quot;language-clojure highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;; Setup
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;board&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;location&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;player-mark&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;; Expectation on the function in the game namespace
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;should=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;X&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;game/make-move&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;board&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;location&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;player-mark&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The biggest difference is that we are now passing in the board instead of storing it inside of game. This means that the game/make-move function is completely reusable (since it is a pure function).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;functional-js&quot;&gt;Functional JS?&lt;/h2&gt;
+
+&lt;p&gt;I know how to test JS using the OO strategy from above. But after seeing how much
+better your code is when you write it from a functional perspective what I’d
+really like to do is &lt;strong&gt;test JS in a functional way&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Why Test?</summary></entry><entry><title>Meta blog =&amp;gt; Make this blog in less than an hour with Jekyll. Fo free.</title><link href="https://jphoenix86.github.io/meta-blog/" rel="alternate" type="text/html" title="Meta blog =&gt; Make this blog in less than an hour with Jekyll. Fo free." /><published>2016-06-20T00:00:00-07:00</published><updated>2016-06-20T00:00:00-07:00</updated><id>https://jphoenix86.github.io/meta-blog</id><content type="html" xml:base="https://jphoenix86.github.io/meta-blog/">&lt;ul&gt;
+  &lt;li&gt;You need:
+    &lt;ul&gt;
+      &lt;li&gt;Github account (you can sign up for one &lt;a href=&quot;https://www.github.com&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First things first. How do you go about making a blog.&lt;/p&gt;
+
+&lt;h2&gt;At a high level in order to make a blog you need 3 things in order to be
+successful:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Consistency&lt;/strong&gt;
+(choose a schedule and stick to it). Hate schedules? Yeah… I’m in a similar boat.
+So instead you can opt for house of cards style. Just post a batch whenever you feel like it and then
+alert your audience via the ones that have opted in. And also self promote over social media.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pick a topic(s) that you want to focus on.&lt;/strong&gt;
+Who’s your audience? Many people think that they don’t
+want to pigeon hole themselves into a smaller category (I CAN JUST APPEAL TO EVERYONE)… but this
+actually has an inverse effect. By trying to appeal to everyone you end up appealing to no one.
+Polarizing is what you are going for. And in order to polarize that means that you need to make some
+decisions about what you want to blog about.&lt;/li&gt;
+  &lt;li&gt;Actually &lt;strong&gt;get setup&lt;/strong&gt; with the technical side.
+I’m going to use Jekyll as its free and super easy.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt; Step 1 =&amp;gt; Pick a schedule.  &lt;/h2&gt;
+
+&lt;p&gt;I’m going to opt for the House of Cards style approach as I don’t like being forced into a habit
+structure I haven’t chosen to adopt. I will remain flexible here though and if I find myself not working
+hard enough I may have to change to a differen schedule.&lt;/p&gt;
+
+&lt;p&gt;Check.&lt;/p&gt;
+
+&lt;h2&gt; Step 2 =&amp;gt; Pick a topic(s) to focus on.  &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mastery Acquisition (my biggest passion).&lt;/li&gt;
+  &lt;li&gt;Code quality, patterns, principles&lt;/li&gt;
+  &lt;li&gt;Workflow.&lt;/li&gt;
+  &lt;li&gt;Escaping the 9 - 5 (I think I’ve done it although I am still working a 9 - 5).
+=&amp;gt; I’ll leave this open… but I think that this is a great place to start.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check.&lt;/p&gt;
+
+&lt;h2&gt; Step 3 =&amp;gt; Build the thing (the rest of this post is dedicated to that).  &lt;/h2&gt;
+
+&lt;p&gt;NOTE: I’m also going to walk you through the specific workflow things that I do (including keystrokes).&lt;/p&gt;
+
+&lt;h3&gt; Go to Chrome (or a different browser if you are a pleb).  &lt;/h3&gt;
+
+&lt;p&gt;If Chrome is open I would &lt;code class=&quot;highlighter-rouge&quot;&gt;command - tab&lt;/code&gt; over and then hit &lt;code class=&quot;highlighter-rouge&quot;&gt;command - t&lt;/code&gt; to open a new tab where I can search.&lt;/p&gt;
+
+&lt;p&gt;If Chrome is not open =&amp;gt; I use a plugin called &lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; and have it bound to &lt;code class=&quot;highlighter-rouge&quot;&gt;option - spacebar&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;So from anywhere I would hit &lt;code class=&quot;highlighter-rouge&quot;&gt;option - spacebar&lt;/code&gt; then start typing chrome =&amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;ch&lt;/code&gt; and then &lt;code class=&quot;highlighter-rouge&quot;&gt;enter&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since Chrome pops you right into the search bar I can now type &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt;&lt;/a&gt;. It should be the first link.&lt;/p&gt;
+
+&lt;h3&gt; Go to Jekyll homepage &lt;/h3&gt;
+
+&lt;p&gt;Looks like they have pretty decent documentation… so I’m going to follow that and put any gotchas here in this post.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;NOTE: The dollar sign means you are typing this in your terminal… don’t actually type it. I use &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-1.jpg&quot; alt=&quot;First Error&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt; BOOM... first error message. Was not expecting it to happen so soon.  &lt;/h3&gt;
+
+&lt;p&gt;My initial thought after just reading the error message =&amp;gt; I’m doing this on my work computer and I haven’t set up Ruby on it yet… so maybe thats the issue.
+Also… I know that Ruby is up to version like 2.3.X or something like that… and this error message is saying I only have 2.0.0 so that could also have something to do with it.&lt;/p&gt;
+
+&lt;p&gt;Back to chrome we go.&lt;/p&gt;
+
+&lt;p&gt;To debug this I actually typed:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;you don't have wri&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;and the rest of the error message populated itself… so I then typed:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock - f&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;to populate the search.&lt;/p&gt;
+
+&lt;h3&gt; NOTE: Caps lock is bound to ctrl because #winning &lt;/h3&gt;
+
+&lt;p&gt;Also worth noting… I use a chrome extension called &lt;a href=&quot;https://vimium.github.io/&quot;&gt;Vimium&lt;/a&gt;
+so that I can surf the internet without touching my mouse.&lt;/p&gt;
+
+&lt;p&gt;OK… so it looks like my intuition was correct after reading the very first
+&lt;a href=&quot;http://stackoverflow.com/questions/14607193/installing-gem-or-updating-rubygems-fails-with-permissions-error&quot;&gt;stack overflow&lt;/a&gt; response.
+Mac OS X ships with Ruby 2.0.0… but that’s just basic Ruby and not anything that
+I’ve installed.&lt;/p&gt;
+
+&lt;h3&gt; Install Ruby &lt;/h3&gt;
+
+&lt;p&gt;So before anything else we need to get an updated version of Ruby and for that I’m
+going to install &lt;a href=&quot;https://rvm.io/rvm/install&quot;&gt;RVM&lt;/a&gt; to get Ruby (RVM stands for
+&lt;em&gt;Ruby Version Manager&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;I’m going to follow their install script as I trust RVM as a source.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\c&lt;/span&gt;url https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer | bash -s stable&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;I then had to update my current shell window (you also could close down your terminal and reopen it) with:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; /Users/jphoenix/.rvm/scripts/rvm&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;As of now the latest version of Ruby is 2.3.1 so I’m going to install that.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;rvm install 2.3.1&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Note: Ruby takes a while if you have to install it.&lt;/p&gt;
+
+&lt;p&gt;OK its finally done.&lt;/p&gt;
+
+&lt;p&gt;I ran a quick&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;ruby -v&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;which stands for “Ruby version” to make sure that in worked.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ROUND 2:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;It worked this time.&lt;/p&gt;
+
+&lt;p&gt;OK… it looks like we are pretty much up and running in terms of basic setup… kudos Jekyll.&lt;/p&gt;
+
+&lt;h1&gt; Reading the Jekyll docs &lt;/h1&gt;
+
+&lt;p&gt;At this point I wanted to get a basic sense of what Jekyll was before I continued on.&lt;/p&gt;
+
+&lt;p&gt;To do that I read through the Basic Usage section (found a few things I’m interested in but nothing actionable yet).&lt;/p&gt;
+
+&lt;p&gt;I also tried to read the configuration section but my eyes started glazing over… it seemed more like reference
+material anyways so I skipped it and moved on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TIP:&lt;/strong&gt; The biggest thing when browsing documentation for something new is you want to show your mind that
+this new thing (language, framework, etc)… is just a thing with some new rules.
+And you &lt;em&gt;CAN&lt;/em&gt; figure it out.
+Also… keep moving. If it doesn’t seem relevant or interesting then skip it and come back to it later. You
+don’t need to understand everything right now. Just the basics.&lt;/p&gt;
+
+&lt;h2&gt; How Jekyll works (accoring to me): &lt;/h2&gt;
+
+&lt;p&gt;We have 3 different types of things.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Posts&lt;/li&gt;
+  &lt;li&gt;Drafts&lt;/li&gt;
+  &lt;li&gt;Pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt; Posts need to have a format that begins with a date (the date posted).
+And drafts are just posts that don't have a date yet. &lt;/h3&gt;
+
+&lt;p&gt;We can style any of these using something called &lt;em&gt;Front Matter&lt;/em&gt; where we can specify stuff like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A specific layout&lt;/li&gt;
+  &lt;li&gt;The author&lt;/li&gt;
+  &lt;li&gt;Tags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I plan on making layout defaults for both posts and pages, etc.&lt;/p&gt;
+
+&lt;h2&gt; Creating Pages &lt;/h2&gt;
+
+&lt;p&gt;In order to get a &lt;strong&gt;page&lt;/strong&gt; to display you do the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In your root directory (folder) you create a new directory for the page you want to make:
+    &lt;ul&gt;
+      &lt;li&gt;jphoenx/about/&lt;/li&gt;
+      &lt;li&gt;jphoenx/contact/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Then in each of those you make a new index.html where you actually put the HTML:
+    &lt;ul&gt;
+      &lt;li&gt;jphoenx/about/index.html&lt;/li&gt;
+      &lt;li&gt;jphoenx/contact/index.html&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;This will generate the routes:
+    &lt;ul&gt;
+      &lt;li&gt;https://jphoenx.com/about&lt;/li&gt;
+      &lt;li&gt;https://jphoenx.com/contact&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Then I can adjust a default layout for pages (which both of those are pages). And I’m off to the races.&lt;/p&gt;
+
+&lt;h2&gt; Managing Posts &lt;/h2&gt;
+
+&lt;p&gt;I can reference all posts (like my homepage displaying all the recent posts for instance)
+using the following syntax (reminds me of ERB):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-5.jpg&quot; alt=&quot;Index of Posts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nothing crazy going on here. Its just a &lt;strong&gt;for loop&lt;/strong&gt; that will create links for all of the sites posts.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;site&lt;/strong&gt; command is given to us.
+As well as &lt;strong&gt;page&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It can also support &lt;strong&gt;collections&lt;/strong&gt; if you specify them (I’ll probably use &lt;strong&gt;skills&lt;/strong&gt; eventually but I don’t
+need to worry about it for now).&lt;/p&gt;
+
+&lt;h3&gt; IT SUPPORTS SASS. That is super cool.  &lt;/h3&gt;
+
+&lt;p&gt;Do 2 things to get it setup:&lt;/p&gt;
+
+&lt;p&gt;First, at the top of our main.scss file&lt;/p&gt;
+
+&lt;p&gt;here =&amp;gt; jphoenx/style.scss&lt;/p&gt;
+
+&lt;p&gt;We put two rows of three dashes and then we import the files we want:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-6.png&quot; alt=&quot;Top of css files&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Second, we put all of our sass files in a /_sass directory&lt;/p&gt;
+
+&lt;p&gt;here =&amp;gt; jphoenx/_sass/_base.scss&lt;/p&gt;
+
+&lt;h2&gt; JUST DO IT. &lt;/h2&gt;
+
+&lt;p&gt;Ok… so now that I’m feeling comfortable with how Jekyll is working I feel ready to build the blog.&lt;/p&gt;
+
+&lt;p&gt;So now its time to pick a theme (unless you are an ace designer… which I am not).&lt;/p&gt;
+
+&lt;p&gt;A quick search for &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll themes&lt;/code&gt; pulled up a ton of options.&lt;/p&gt;
+
+&lt;p&gt;The very first one was my favorite on the page. So lets do that =&amp;gt; &lt;a href=&quot;https://github.com/AkshayAgarwal007/Jekyll-Mono&quot;&gt;mono theme&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt; Install a theme &lt;/h3&gt;
+
+&lt;p&gt;I went to that github page and clicked the &lt;em&gt;clone or download&lt;/em&gt; button and then copied the link.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ONLY DO ONE OF THESE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have SSH:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git clone git@github.com:AkshayAgarwal007/Jekyll-Mono.git blog&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;If you don’t have SSH:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git clone https://github.com/AkshayAgarwal007/Jekyll-Mono.git blog&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;NOTE: if you don’t have SSH then you will also need to put in your username and password whenever you push something.&lt;/p&gt;
+
+&lt;p&gt;Now we rm the origin from that guy and make a new one that points to your github.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;blog&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git remote rm origin&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now go to github and create a new repo named:&lt;/p&gt;
+
+&lt;h3&gt; your-username.github.io &lt;/h3&gt;
+
+&lt;p&gt;Now whenever you push up your repo… github will handle hosting it for you.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git init&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; Create new .git directory in your project.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git add .&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; Add all changes.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git commit -m &lt;span class=&quot;s2&quot;&gt;&quot;Initial commit&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; Make a new commit with a message.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git remote add origin https://github.com/your-username-on-github/your-repo-name-you-just-made.git&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; Add a destination for your repo to point to.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git push origin master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; Push the changes up to that repo.&lt;/p&gt;
+
+&lt;h2&gt; Its working! &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-2.jpg&quot; alt=&quot;ITS WORKING!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;NICE! That was very easy.&lt;/p&gt;
+
+&lt;p&gt;Now to actually start making changes to it… I don’t think purple is really my color.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;jekyll serve&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;=&amp;gt; this command will make a new server that you can get to from your browser at localhost:4000&lt;/p&gt;
+
+&lt;p&gt;Error… missing some gems.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;gem install jekyll-sitemap jekyll-feed&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Then run serve again.&lt;/p&gt;
+
+&lt;p&gt;Now we can look at our changes without having to push them up to github.&lt;/p&gt;
+
+&lt;h1&gt; Customization &lt;/h1&gt;
+
+&lt;h2&gt; Open up your project in your text editor of choice. &lt;/h2&gt;
+
+&lt;p&gt;I use vim (and I have vim aliased to v)&lt;/p&gt;
+
+&lt;p&gt;So from within the project directory I would just type&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;v .&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;to look at everything at once.&lt;/p&gt;
+
+&lt;p&gt;First place I went to was to change out that purple background color to blue. Since we are using SASS it was
+really easy. I just went to _sass/_variables.scss and changed the $mono-color variable.&lt;/p&gt;
+
+&lt;p&gt;Next stop was inside of _config.yml&lt;/p&gt;
+
+&lt;p&gt;I changed my name and description and I changed the email and github to be my own.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE =&amp;gt; if you change _config.yml then you need to &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl - c&lt;/code&gt; your server and restart it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trade out the avatar photo for my actual photo (I opened finder and dragged in an image of myself and renamed it to avatar.jpg)&lt;/p&gt;
+
+&lt;p&gt;But that looks weird. Because of some weird effect around the photo.&lt;/p&gt;
+
+&lt;p&gt;To the chrome console we go =&amp;gt; (right click then inspect element).&lt;/p&gt;
+
+&lt;p&gt;It looks like the problem is in &lt;code class=&quot;highlighter-rouge&quot;&gt;ch-info-front&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;ch-img-1&lt;/code&gt; or maybe &lt;code class=&quot;highlighter-rouge&quot;&gt;ch-info-wrap&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;My actual process was to go to the code and comment it out and see what it effects…&lt;/p&gt;
+
+&lt;p&gt;With vim this is pretty straight forward. I type &lt;code class=&quot;highlighter-rouge&quot;&gt;/ch-info&lt;/code&gt; (cmd - f in most text editors) to search.&lt;/p&gt;
+
+&lt;p&gt;And then I scan through and comment out sections of code.&lt;/p&gt;
+
+&lt;p&gt;I use a vim plugin to comment and uncomment quickly =&amp;gt; &lt;a href=&quot;https://github.com/tpope/vim-commentary&quot;&gt;vim commentary&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My actual workflow is:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shift v&lt;/code&gt; =&amp;gt; to highlight a line of code and then&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shift ]&lt;/code&gt; =&amp;gt; to move to the next whitespace&lt;/p&gt;
+
+&lt;p&gt;(I hit that movement twice if selecting two paragraphs of text).&lt;/p&gt;
+
+&lt;p&gt;And then:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gc&lt;/code&gt; =&amp;gt; which is the plugin command for commenting/uncommenting.&lt;/p&gt;
+
+&lt;p&gt;From there I save it and move back to the browser where I would refresh and see how it looks.&lt;/p&gt;
+
+&lt;p&gt;Probably a better way, but eventually I found the offending code.&lt;/p&gt;
+
+&lt;p&gt;Comment out lines 190 - 205 (two sections in a row that both start with &lt;code class=&quot;highlighter-rouge&quot;&gt;.ch-info-wrap&lt;/code&gt;)&lt;/p&gt;
+
+&lt;p&gt;OK. Everything is looking pretty good now.&lt;/p&gt;
+
+&lt;p&gt;It’s time to actually post our first blog post.&lt;/p&gt;
+
+&lt;h2&gt; First blog post &lt;/h2&gt;
+
+&lt;p&gt;Remember, the way that Jekyll works is anything in the &lt;em&gt;Posts&lt;/em&gt; directory with the correct time stamp is considered a post.&lt;/p&gt;
+
+&lt;p&gt;The format it needs is:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;So for this post.&lt;/p&gt;
+
+&lt;p&gt;I’m going to save it as &lt;strong&gt;2016-06-16-meta-blog.md&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I move it into the posts directory and BOOM I can now see it on my front page! Woot woot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-3.jpg&quot; alt=&quot;first post&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately… this is what the actual post looks like&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-4.jpg&quot; alt=&quot;Gross post&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Plain HTML is not cutting it.&lt;/p&gt;
+
+&lt;p&gt;Remember what we read earlier… we need to throw in a piece of meta data at the top so that Jekyll knows which format
+we want to use.&lt;/p&gt;
+
+&lt;p&gt;I didn’t give it much thought… I just jumped over to my file structure (I use the &lt;a href=&quot;https://github.com/scrooloose/nerdtree&quot;&gt;NerdTree plugin&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;And I have my tree mapped to &lt;code class=&quot;highlighter-rouge&quot;&gt;leader tt&lt;/code&gt; (and my leader is comma). And then I went to posts and pulled up one of the ones in there.&lt;/p&gt;
+
+&lt;p&gt;NICE. Looks like I need to put front matter at the top.&lt;/p&gt;
+
+&lt;p&gt;Front matter is =&amp;gt; 3 hyphens… tags (like author, title, layout)… then 3 hyphens.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meta-blog/meta-blog-7.png&quot; alt=&quot;Front Matter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt; Markdown woes &lt;/h2&gt;
+
+&lt;p&gt;I’ve been trying to type markdown as I go… but I am definitely not a markdown pro…&lt;/p&gt;
+
+&lt;p&gt;So at this stage I started going through the post again and fixing all of my formatting.
+I had been using a form of pseudo code as I was writing where I would just type&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;(WIP blah blah)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;and then I could just search for WIP and make changes.&lt;/p&gt;
+
+&lt;p&gt;But now its time to make things look good. I used this =&amp;gt; &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists&quot;&gt;Markdown Cheatsheet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;NOTE: If you are using Vim and apostrophes are giving you problems snag the &lt;a href=&quot;tpope/vim-markdown&quot;&gt;Vim Markdown Plugin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt; Final tweaks &lt;/h2&gt;
+
+&lt;p&gt;About and Project pages.&lt;/p&gt;
+
+&lt;p&gt;I went in and just removed the content for the about and project pages and replaced it with single sentences.&lt;/p&gt;
+
+&lt;p&gt;I will work on those when I get around to it.&lt;/p&gt;
+
+&lt;p&gt;I also deleted the post examples that were in there before hand.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>You need:
+    
+      Github account (you can sign up for one here)</summary></entry></feed>

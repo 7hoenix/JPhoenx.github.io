@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Choosing Abstractions 1 – Jphoenx – Resident Apprentice @ 8th Light</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="You’ve probably heard that one of the hardest things in programming is naming things.
+
+" />
+    <meta property="og:description" content="You’ve probably heard that one of the hardest things in programming is naming things.
+
+" />
+    
+    <meta name="author" content="Jphoenx" />
+
+    
+    <meta property="og:title" content="Choosing Abstractions 1" />
+    <meta property="twitter:title" content="Choosing Abstractions 1" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="Jphoenx - Resident Apprentice @ 8th Light" href="/feed.xml" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Begin Jekyll SEO tag v2.0.0 -->
+<title>Choosing Abstractions 1 - Jphoenx</title>
+<meta property="og:title" content="Choosing Abstractions 1" />
+<meta name="description" content="You’ve probably heard that one of the hardest things in programming is naming things." />
+<meta property="og:description" content="You’ve probably heard that one of the hardest things in programming is naming things." />
+<link rel="canonical" href="https://jphoenix86.github.io/choosing-abstractions-1/" />
+<meta property="og:url" content="https://jphoenix86.github.io/choosing-abstractions-1/" />
+<meta property="og:site_name" content="Jphoenx" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-08-03T00:00:00-07:00" />
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Choosing Abstractions 1",
+    "datePublished": "2016-08-03T00:00:00-07:00",
+    "description": "You’ve probably heard that one of the hardest things in programming is naming things.",
+    "url": "https://jphoenix86.github.io/choosing-abstractions-1/"
+  }
+</script>
+<!-- End Jekyll SEO tag -->
+  </head>
+
+  <body>
+
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="post-heading">
+            <h1>Choosing Abstractions 1</h1>
+            <span class="meta">Posted by <a href="/about"> Jphoenx
+            </a> on August  3, 2016
+            <a href="/"> { Return to Blog }</a>
+            </span>
+        </div>
+
+      </div>
+    </div>
+
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <script src="/scripts/nav.js"></script>
+ <div class="space-extra-small">
+ </div>
+
+  <div id="currentEntry" class="entry">
+    <p>You’ve probably heard that one of the hardest things in programming is naming things.</p>
+
+<p>I never really understood exactly what that meant until working on my <a href="http://github.com/JPHoenx/javaServer">Java Server</a>
+project at <a href="https://www.8thlight.com">8th Light</a>.</p>
+
+<h3 id="things-are-hard-to-name-for-the-following-reasons">Things are hard to name for the following reasons:</h3>
+
+<ol>
+  <li>If you commit to a design then it will be much harder to change from that
+design going forwards (you will be battling against technical momentum).</li>
+  <li>Naming a thing is where you decide the level of abstraction that it is going
+to be at… and choosing a layer of abstraction level… is extremely difficult.</li>
+</ol>
+
+<p>The first one is more of a business decision. i.e. will we want to take the time
+to refactor this poor design to something better later?</p>
+
+<p>The second one though is a skill set that can be learned.</p>
+
+<p>My mentor <a href="https://twitter.com/pratt_b">Brian Pratt</a> did an excellent Zagaku on
+choosing different layers of abstraction for a coffee pot.</p>
+
+<p>Instead of trying to view it as specific objects with behavior… button here… light there…
+repository that is either full or empty… etc.</p>
+
+<h3 id="instead-flip-your-thinking-to-work-with-the-underlying-use-case-takes-practice">Instead flip your thinking to work with the underlying use case (takes practice).</h3>
+
+<p>So for my Server project. The one main thing I’m allowed to use is the <a href="https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html">Socket class</a>.</p>
+
+<p>Well when I first saw that… I obviously had several questions…</p>
+
+<ul>
+  <li>What exactly is a socket (besides perhaps a way for Oracle to ensure its devs keep job security)?</li>
+  <li>How do I use it?</li>
+</ul>
+
+<h3 id="source-code-backwards-approach">Source code backwards approach</h3>
+
+<p>So my first instinct (since I was handed this Socket thing) was to go look at what it
+can do and figure out how to use it</p>
+
+<p>Reading the Java docs wasn’t really much help as its description is as follows:</p>
+
+<blockquote>
+  <p>A socket is an endpoint for communication between two machines.</p>
+</blockquote>
+
+<p><strong>Thanks Oracle.</strong></p>
+
+<p>I tried working with it and wrapping it in an interface as per Brian’s suggestions.</p>
+
+<p>This is what I ended up with (The test that finally broke me):</p>
+
+<p><strong>NOTE =&gt; If you are reading this blog post looking for code to try… this is not the code for you.
+You will end up hating yourself down the road.</strong></p>
+
+<pre><code class="language-Java">public void testItSendsBackTheProperResponse() throws Exception {
+    String request = "GET / HTTP/1.1\nUser-Agent: Cake\nAccept-Language: en-us\n";
+    String expectedResponse = "HTTP/1.1 200 OK\nUser-Agent: ServerCake\nContent-Type: text/html\n\n" +
+            "&lt;html&gt;&lt;body&gt;&lt;h1&gt;Hello world&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;";
+    InputStream input = new ByteArrayInputStream(request.getBytes());
+    ByteArrayOutputStream output = new ByteArrayOutputStream();
+    FakeSocket socket = new FakeSocket(input, output);
+    FakeServerSocket serverSocket = new FakeServerSocket(socket);
+    Server server = new Server(serverSocket);
+
+    server.run();
+
+    String response = output.toString();
+
+    assertEquals(expectedResponse, response);
+}
+</code></pre>
+
+<p>In short:
+I’m trying to inject both input and output streams into the socket which then
+gets injected into the serversocket which then gets injected into the server.</p>
+
+<p>Run the server… and then somehow assert that the output stream has a response pushed onto it.</p>
+
+<p><strong>TRIPLEJECTION</strong></p>
+
+<p>This code is dense and confusing and implies that I’m missing a layer of abstraction somewhere.</p>
+
+<p>I was talking to my other mentor <a href="https://twitter.com/radicalzephyr">Geoff Shannon</a> and he recommended
+that I should go and try to TDD my SocketWrapper (super creative name) interface.</p>
+
+<h3 id="use-case-approach">Use case approach.</h3>
+
+<p>So what are we wrapping?</p>
+
+<p>Communication between a network (or a client of the network) and the web server.</p>
+
+<p>The network (I think of this as the internet itself) is what we are wrapping.</p>
+
+<p>In order for anything to get in to our web server… it needs to conform
+to a few rules that we get to pick.</p>
+
+<p>The general process needs to look like this:</p>
+
+<ul>
+  <li>Network calls into the server with a request.</li>
+  <li>The server accepts the request.</li>
+  <li>Handles the request.</li>
+  <li>And then returns a response.</li>
+</ul>
+
+<p>Build a mock client (which is a potential client of the network)…
+And the client will send requests to the server.</p>
+
+<p>What are the basic commands we are going to receive?
+1) Hey gimme a webpage to me please (has to ask nice).
+2) … Other things (remember don’t do free work).</p>
+
+<p>Server =&gt; first check that the request is legit.</p>
+
+<p>Send it to the router for that.</p>
+
+<p>HttpProtocol demands that you conform to it.</p>
+
+<p>It’s an interface that needs the following:
+Date, version, request method, headers (optional), body (optional).</p>
+
+<p>Break down the incoming request based on a set of rules…</p>
+
+<p>Look for newlines at first… And then look for double new lines (and then the next thing is the body).</p>
+
+<p>Router can figure out what handling function to call… And then call it.</p>
+
+<p>–End Brain dump–</p>
+
+  </div>
+
+  
+</article>
+
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+            <div class="svg-icon">
+          
+<a href="mailto:jholzmann@8thlight.com"><i class="icon-envelope icon-2x"></i></a>
+
+
+<a href="https://github.com/jphoenix86"><i class="icon-github icon-2x"></i></a>
+
+<a href="https://www.linkedin.com/in/justin-holzmann-9470065"><i class="icon-linkedin-sign icon-2x"></i></a>
+
+
+<a href="https://www.twitter.com/justinholzmann"><i class="icon-twitter icon-2x"></i></a>
+
+
+
+            </div>
+        </footer>
+      </div>
+    </div>
+
+
+    
+
+  </body>
+</html>
