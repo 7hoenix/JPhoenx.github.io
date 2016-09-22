@@ -1,16 +1,26 @@
 (function() {
-  var addClassToElement, removeClassFromElement, toggleElements;
+  var addClassToElement, checkDistance, removeClassFromElement, toggleElements;
 
-  window.addEventListener('scroll', function(ev) {
+  window.addEventListener('scroll', (function(_this) {
+    return function(e) {
+      return checkDistance(e);
+    };
+  })(this));
+
+  window.addEventListener('touchmove', (function(_this) {
+    return function(e) {
+      return checkDistance(e);
+    };
+  })(this));
+
+  checkDistance = function() {
     var distanceToTop, introContainerDistance, navContainerDistance, smallSpaceDistance;
     introContainerDistance = document.getElementsByClassName("intro-header")[0].clientHeight;
     smallSpaceDistance = document.getElementsByClassName("space-extra-small")[0].clientHeight;
     navContainerDistance = smallSpaceDistance + introContainerDistance;
     distanceToTop = window.pageYOffset;
-    console.log("nav: " + navContainerDistance);
-    console.log("distance to top: " + distanceToTop);
     return toggleElements(distanceToTop, navContainerDistance);
-  });
+  };
 
   toggleElements = function(distanceToTop, navContainerDistance) {
     var entry, nav;
