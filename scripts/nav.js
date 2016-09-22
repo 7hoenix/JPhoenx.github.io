@@ -13,6 +13,12 @@
     };
   })(this));
 
+  window.addEventListener('gesturechange', (function(_this) {
+    return function(e) {
+      return checkDistance(e);
+    };
+  })(this));
+
   checkDistance = function() {
     var distanceToTop, introContainerDistance, navContainerDistance, smallSpaceDistance;
     introContainerDistance = document.getElementsByClassName("intro-header")[0].clientHeight;
