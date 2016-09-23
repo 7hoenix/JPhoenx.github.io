@@ -706,7 +706,7 @@ green     #859900  operators, other keywords
 /****************************/
 /* JEKYLL-mono-color */
 /***************************/
-/* 
+/*
     *Title
 */
 .site-name a {
@@ -719,10 +719,10 @@ green     #859900  operators, other keywords
 }
 
 .post a {
-  color: #5cacee;
+  color: #4477BD;
 }
 .post a:hover {
-  color: #167bce;
+  color: #284873;
 }
 
 .post-heading a {
@@ -766,9 +766,9 @@ button:focus {
 
 .button.button-primary,
 button.button-primary {
-  color: #5cacee;
+  color: #4477BD;
   background-color: transparent;
-  border-color: #5cacee;
+  border-color: #4477BD;
 }
 
 .button.button-primary:hover,
@@ -776,8 +776,8 @@ button.button-primary:hover,
 .button.button-primary:focus,
 button.button-primary:focus {
   color: #FFF;
-  background-color: #5cacee;
-  border-color: #5cacee;
+  background-color: #4477BD;
+  border-color: #4477BD;
 }
 
 /*
@@ -785,7 +785,7 @@ button.button-primary:focus {
 */
 .intro-header {
   border-top: 5px solid white;
-  background-color: #5cacee;
+  background-color: #4477BD;
 }
 
 .intro-header .post-heading {
@@ -805,7 +805,7 @@ button.button-primary:focus {
     padding: 150px 0;
   }
 }
-/* 
+/*
     *empty spaces
 */
 .space-medium {
@@ -820,16 +820,16 @@ button.button-primary:focus {
   padding: 30px 0 15px;
 }
 
-/* 
+/*
     *svg-icons
-    
+
 */
 .svg-icon a {
-  color: #2e94e9;
+  color: #365f98;
   cursor: pointer;
 }
 .svg-icon a:hover {
-  color: #167bce;
+  color: #284873;
 }
 
 /*
@@ -933,7 +933,7 @@ button.button-primary:focus {
 
 .ch-info p a {
   display: block;
-  color: #5cacee;
+  color: #4477BD;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
@@ -944,7 +944,7 @@ button.button-primary:focus {
 }
 
 .ch-info p a:hover {
-  color: #2e94e9;
+  color: #365f98;
 }
 
 .ch-item:hover .ch-info-front {
