@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://jphoenx.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jphoenx.github.io/" rel="alternate" type="text/html" /><updated>2016-09-24T12:15:00-07:00</updated><id>https://jphoenx.github.io/</id><title>Jphoenx</title><subtitle>Resident Apprentice @ 8th Light</subtitle><entry><title>The art of practicing 1</title><link href="https://jphoenx.github.io/art-of-practicing/" rel="alternate" type="text/html" title="The art of practicing 1" /><published>2016-09-09T00:00:00-07:00</published><updated>2016-09-09T00:00:00-07:00</updated><id>https://jphoenx.github.io/art-of-practicing</id><content type="html" xml:base="https://jphoenx.github.io/art-of-practicing/">&lt;h4 class=&quot;nav-anchor&quot;&gt;Chunking&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://jphoenx.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jphoenx.github.io/" rel="alternate" type="text/html" /><updated>2017-05-19T22:29:14-05:00</updated><id>https://jphoenx.github.io/</id><title>Jphoenx</title><subtitle>Resident Apprentice @ 8th Light</subtitle><entry><title>The art of practicing 1</title><link href="https://jphoenx.github.io/art-of-practicing/" rel="alternate" type="text/html" title="The art of practicing 1" /><published>2016-09-09T00:00:00-05:00</published><updated>2016-09-09T00:00:00-05:00</updated><id>https://jphoenx.github.io/art-of-practicing</id><content type="html" xml:base="https://jphoenx.github.io/art-of-practicing/">&lt;h4 class=&quot;nav-anchor&quot;&gt;Chunking&lt;/h4&gt;
 
 &lt;h2 id=&quot;chunking&quot;&gt;Chunking&lt;/h2&gt;
 
@@ -24,7 +24,7 @@ mind behind &lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io&lt;/a&gt;.
 
       A -----------------&amp;gt; B ------------------&amp;gt; C
 
-  Can't do        Can do with effort      Can do with little / no effort
+  Can&#39;t do        Can do with effort      Can do with little / no effort
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
@@ -85,7 +85,7 @@ perform the task faster than the experts.&lt;/p&gt;
 of 45 - 90 minutes each. If you work on things in those blocks and can practice and acquire the skill in that amount
 of time then you are well on your way.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;More to come.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Chunking</summary></entry><entry><title>How to Program in Java using Static and Final</title><link href="https://jphoenx.github.io/how-to-program-in-java-using-static-and-final/" rel="alternate" type="text/html" title="How to Program in Java using Static and Final" /><published>2016-09-01T00:00:00-07:00</published><updated>2016-09-01T00:00:00-07:00</updated><id>https://jphoenx.github.io/how-to-program-in-java-using-static-and-final</id><content type="html" xml:base="https://jphoenx.github.io/how-to-program-in-java-using-static-and-final/">&lt;p&gt;AKA: Functional Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More to come.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Chunking</summary></entry><entry><title>How to Program in Java using Static and Final</title><link href="https://jphoenx.github.io/how-to-program-in-java-using-static-and-final/" rel="alternate" type="text/html" title="How to Program in Java using Static and Final" /><published>2016-09-01T00:00:00-05:00</published><updated>2016-09-01T00:00:00-05:00</updated><id>https://jphoenx.github.io/how-to-program-in-java-using-static-and-final</id><content type="html" xml:base="https://jphoenx.github.io/how-to-program-in-java-using-static-and-final/">&lt;p&gt;AKA: Functional Java&lt;/p&gt;
 
 &lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
 
@@ -325,7 +325,7 @@ new copy of that object and return it.&lt;/p&gt;
     &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
     &lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;combine&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;currentBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;newContent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;getHeader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;updatedBody&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Jphoenx</name></author><summary>AKA: Functional Java</summary></entry><entry><title>Java Streams 1</title><link href="https://jphoenx.github.io/java-streams-1/" rel="alternate" type="text/html" title="Java Streams 1" /><published>2016-08-12T00:00:00-07:00</published><updated>2016-08-12T00:00:00-07:00</updated><id>https://jphoenx.github.io/java-streams-1</id><content type="html" xml:base="https://jphoenx.github.io/java-streams-1/">&lt;h2 id=&quot;using-bufferedinputstream&quot;&gt;Using BufferedInputStream&lt;/h2&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Jphoenx</name></author><summary>AKA: Functional Java</summary></entry><entry><title>Java Streams 1</title><link href="https://jphoenx.github.io/java-streams-1/" rel="alternate" type="text/html" title="Java Streams 1" /><published>2016-08-12T00:00:00-05:00</published><updated>2016-08-12T00:00:00-05:00</updated><id>https://jphoenx.github.io/java-streams-1</id><content type="html" xml:base="https://jphoenx.github.io/java-streams-1/">&lt;h2 id=&quot;using-bufferedinputstream&quot;&gt;Using BufferedInputStream&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: this is for my &lt;a href=&quot;https://www.github.com/jphoenx/javaServer&quot;&gt;Java Server&lt;/a&gt; project at &lt;a href=&quot;https://www.8thlight.com&quot;&gt;8thLight&lt;/a&gt;.&lt;/p&gt;
 
@@ -388,7 +388,7 @@ need.&lt;/p&gt;
 &lt;p&gt;This class will now act as a boundary for a request.&lt;/p&gt;
 
 &lt;p&gt;And if we ever need to parse more information out of the request (WE PROBABLY WILL LOL)…
-then we can just come to this class and make the changes here.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Using BufferedInputStream</summary></entry><entry><title>Choosing Abstractions 1</title><link href="https://jphoenx.github.io/choosing-abstractions-1/" rel="alternate" type="text/html" title="Choosing Abstractions 1" /><published>2016-08-03T00:00:00-07:00</published><updated>2016-08-03T00:00:00-07:00</updated><id>https://jphoenx.github.io/choosing-abstractions-1</id><content type="html" xml:base="https://jphoenx.github.io/choosing-abstractions-1/">&lt;p&gt;You’ve probably heard that one of the hardest things in programming is naming things.&lt;/p&gt;
+then we can just come to this class and make the changes here.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Using BufferedInputStream</summary></entry><entry><title>Choosing Abstractions 1</title><link href="https://jphoenx.github.io/choosing-abstractions-1/" rel="alternate" type="text/html" title="Choosing Abstractions 1" /><published>2016-08-03T00:00:00-05:00</published><updated>2016-08-03T00:00:00-05:00</updated><id>https://jphoenx.github.io/choosing-abstractions-1</id><content type="html" xml:base="https://jphoenx.github.io/choosing-abstractions-1/">&lt;p&gt;You’ve probably heard that one of the hardest things in programming is naming things.&lt;/p&gt;
 
 &lt;p&gt;I never really understood exactly what that meant until working on my &lt;a href=&quot;http://github.com/JPHoenx/javaServer&quot;&gt;Java Server&lt;/a&gt;
 project at &lt;a href=&quot;https://www.8thlight.com&quot;&gt;8th Light&lt;/a&gt;.&lt;/p&gt;
@@ -517,7 +517,7 @@ Date, version, request method, headers (optional), body (optional).&lt;/p&gt;
 
 &lt;p&gt;Router can figure out what handling function to call… And then call it.&lt;/p&gt;
 
-&lt;p&gt;–End Brain dump–&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>You’ve probably heard that one of the hardest things in programming is naming things.</summary></entry><entry><title>Testing in JS</title><link href="https://jphoenx.github.io/testing-in-js/" rel="alternate" type="text/html" title="Testing in JS" /><published>2016-06-29T00:00:00-07:00</published><updated>2016-06-29T00:00:00-07:00</updated><id>https://jphoenx.github.io/testing-in-js</id><content type="html" xml:base="https://jphoenx.github.io/testing-in-js/">&lt;h2 id=&quot;why-test&quot;&gt;Why Test?&lt;/h2&gt;
+&lt;p&gt;–End Brain dump–&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>You’ve probably heard that one of the hardest things in programming is naming things.</summary></entry><entry><title>Testing in JS</title><link href="https://jphoenx.github.io/testing-in-js/" rel="alternate" type="text/html" title="Testing in JS" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>https://jphoenx.github.io/testing-in-js</id><content type="html" xml:base="https://jphoenx.github.io/testing-in-js/">&lt;h2 id=&quot;why-test&quot;&gt;Why Test?&lt;/h2&gt;
 
 &lt;p&gt;For a while now I’ve felt like the skill set today is every bit as much about
 testing as it is about writing actual code.&lt;/p&gt;
@@ -602,7 +602,7 @@ because you can follow the following pattern:&lt;/p&gt;
 
 &lt;p&gt;I know how to test JS using the OO strategy from above. But after seeing how much
 better your code is when you write it from a functional perspective what I’d
-really like to do is &lt;strong&gt;test JS in a functional way&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Why Test?</summary></entry><entry><title>Meta blog =&amp;gt; Make this blog in less than an hour with Jekyll. Fo free.</title><link href="https://jphoenx.github.io/meta-blog/" rel="alternate" type="text/html" title="Meta blog =&gt; Make this blog in less than an hour with Jekyll. Fo free." /><published>2016-06-20T00:00:00-07:00</published><updated>2016-06-20T00:00:00-07:00</updated><id>https://jphoenx.github.io/meta-blog</id><content type="html" xml:base="https://jphoenx.github.io/meta-blog/">&lt;ul&gt;
+really like to do is &lt;strong&gt;test JS in a functional way&lt;/strong&gt;.&lt;/p&gt;</content><author><name>Jphoenx</name></author><summary>Why Test?</summary></entry><entry><title>Meta blog =&amp;gt; Make this blog in less than an hour with Jekyll. Fo free.</title><link href="https://jphoenx.github.io/meta-blog/" rel="alternate" type="text/html" title="Meta blog =&gt; Make this blog in less than an hour with Jekyll. Fo free." /><published>2016-06-20T00:00:00-05:00</published><updated>2016-06-20T00:00:00-05:00</updated><id>https://jphoenx.github.io/meta-blog</id><content type="html" xml:base="https://jphoenx.github.io/meta-blog/">&lt;ul&gt;
   &lt;li&gt;You need:
     &lt;ul&gt;
       &lt;li&gt;Github account (you can sign up for one &lt;a href=&quot;https://www.github.com&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
@@ -683,7 +683,7 @@ Also… I know that Ruby is up to version like 2.3.X or something like that… a
 
 &lt;p&gt;To debug this I actually typed:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;you don't have wri&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;you don&#39;t have wri&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;and the rest of the error message populated itself… so I then typed:&lt;/p&gt;
 
@@ -763,7 +763,7 @@ don’t need to understand everything right now. Just the basics.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h3&gt; Posts need to have a format that begins with a date (the date posted).
-And drafts are just posts that don't have a date yet. &lt;/h3&gt;
+And drafts are just posts that don&#39;t have a date yet. &lt;/h3&gt;
 
 &lt;p&gt;We can style any of these using something called &lt;em&gt;Front Matter&lt;/em&gt; where we can specify stuff like:&lt;/p&gt;
 
